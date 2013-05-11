@@ -3,7 +3,7 @@
   "repo": "whirlibulf/stats.js",
   "description": "mrdoob's stats.js library",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["stats", "mrdoob"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
