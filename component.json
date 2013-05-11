@@ -1,0 +1,14 @@
+{
+  "name": "stats.js",
+  "repo": "whirlibulf/stats.js",
+  "description": "mrdoob's stats.js library",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
