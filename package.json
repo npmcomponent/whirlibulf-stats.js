@@ -1,0 +1,12 @@
+{
+  "name": "whirlibulf-stats.js",
+  "description": "mrdoob's stats.js library",
+  "version": "0.0.1",
+  "keywords": [
+    "stats",
+    "mrdoob"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
